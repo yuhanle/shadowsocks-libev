@@ -41,6 +41,8 @@
 (^|\.)getuploader\.com$
 (^|\.)github\.com$
 (^|\.)githubusercontent\.com$
+(^|\.)githubapp\.com$
+(^|\.)githubassets\.com$
 (^|\.)glype\.com$
 (^|\.)go141\.com$
 (^|\.)hautelook\.com$
