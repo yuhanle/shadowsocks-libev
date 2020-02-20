@@ -40,6 +40,7 @@
 (^|\.)gettyimages\.com$
 (^|\.)getuploader\.com$
 (^|\.)github\.com$
+(^|\.)githubusercontent\.com$
 (^|\.)glype\.com$
 (^|\.)go141\.com$
 (^|\.)hautelook\.com$
